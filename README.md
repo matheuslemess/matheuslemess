@@ -10,7 +10,7 @@
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Interesting Projects 
 * ⚡  I like to play some games every now and then.
-* 🔭 I’m currently working on Front-end
+* 🔭  I’m currently working on Front-end
     
 
 <h3> Skills <h3>
