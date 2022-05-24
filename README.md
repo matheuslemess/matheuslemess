@@ -39,10 +39,8 @@ I am fascinated by how everything works, I like to understand how the world beha
  <h3> Badges <h3>
    
    `<b>`My GitHub Stats `</b>`
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslemess&show_icons=true&theme=dracula&count_private=true)
 
-`<a href="http://www.github.com/matheuslemess"><img src="https://github-readme-stats.vercel.app/api?username=matheuslemess&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="matheus lemes GitHub stats" />``</a>`
-
-`<a href="http://www.github.com/matheuslemess"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuslemess&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />``</a>`
    
     
  <a href="https://github.com/matheuslemess" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslemess&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
