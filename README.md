@@ -38,7 +38,7 @@ I am fascinated by how everything works, I like to understand how the world beha
     
  <h3> Badges <h3>
    
-   `<b>`My GitHub Stats `</b>`
+
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslemess&show_icons=true&theme=dracula&count_private=true)
 
    
