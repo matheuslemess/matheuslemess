@@ -2,14 +2,13 @@
 
   <h2>Software Developer<h2>
 
-I am fascinated by how everything works, I like to understand how the world behaves. With this curiosity, I discovered that Technology can help me to reach new horizons and gain new knowledge from an early age in the area.
+ I'm disciplined and I like new challenges and I'm looking for maximum knowledge, and learning things new languages is my goal.
     
     
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [Portifolio](http://www.luislenzi.dev)
 * ✉️  You can contact me at matheus.carvalho.lemes@hotmail.com
 * 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on Interesting Projects (On free time)
+* 🤝  I'm open to collaborating on Interesting Projects 
 * ⚡  I like to play some games every now and then.
 * 🔭 I’m currently working on Front-end
     
