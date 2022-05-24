@@ -13,7 +13,7 @@ I am fascinated by how everything works, I like to understand how the world beha
 * ⚡  I like to play some games every now and then.
 * 🔭 I’m currently working on Front-end
     
-    `<a href="https://www.github.com/matheuslemess" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/matheuslemess?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" />``</a>`
+
 <h3> Skills <h3>
     
 <p align="left">
