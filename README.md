@@ -38,7 +38,7 @@
  <h3> My GitHub Status<h3>
    
    
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslemess&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslemess&show_icons=true&theme=dark&count_private=true)
 
       
  <a href="https://github.com/matheuslemess" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslemess&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
