@@ -42,3 +42,7 @@ I am fascinated by how everything works, I like to understand how the world beha
 
     
 
+
+   <div> 
+     ![Snake animation](https://github.com/matheuslemess/matheuslemess/blob/output/github-contribution-grid-snake.svg)
+     <div>
