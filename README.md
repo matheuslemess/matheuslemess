@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1>i 👋 My name is Matheus Carvalho<h1>
+
+  <h2>Designer and Software Developer<h2>
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
