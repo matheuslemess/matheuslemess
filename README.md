@@ -12,7 +12,10 @@ I am fascinated by how everything works, I like to understand how the world beha
 * 🤝  I'm open to collaborating on Interesting Projects (On free time)
 * ⚡  I like to play some games every now and then.
 * 🔭 I’m currently working on Front-end
-
+    
+    `<a href="https://www.github.com/matheuslemess" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/matheuslemess?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" />``</a>`
+<h3> Skills <h3>
+    
 <p align="left">
 <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"><img alt="elixir" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
