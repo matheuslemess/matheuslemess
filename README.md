@@ -8,7 +8,7 @@
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at matheus.carvalho.lemes@hotmail.com
 * 🧠  I'm learning java and python
-* 🚀  I'm currently working on intuitivecare
+* 🚀  I'm currently working on [IntuitiveCare](https://www.intuitivecare.com/)
 * 🤝  I'm open to collaborating on Interesting Projects 
 * ⚡  I like to play some games every now and then.
 * 🔭  I’m currently working on back-end
