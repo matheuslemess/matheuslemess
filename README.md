@@ -1,4 +1,4 @@
-<h1>i 👋 My name is Matheus Carvalho<h1>
+<h1>Hi 👋 My name is Matheus Carvalho<h1>
 
   <h2>Back end developer at IntuitiveCare.<h2>
 
