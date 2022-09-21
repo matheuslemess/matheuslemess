@@ -1,6 +1,6 @@
 <h1>i 👋 My name is Matheus Carvalho<h1>
 
-  <h2>Software Developer<h2>
+  <h2>Back end developer at IntuitiveCare.<h2>
 
  I'm disciplined and I like new challenges and I'm looking for maximum knowledge, and learning things new languages is my goal.
     
