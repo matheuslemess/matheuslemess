@@ -2,12 +2,10 @@
 
 <h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
-<p align="center">
-  Desenvolvedor Front-end | Apaixonado por Acessibilidade e UX
-  📚 Atualmente aprendendo React, TypeScript e Go.  
-  💼 Trabalho na AZ Tecnologia em Gestão  
-  🎯 Objetivo: me tornar Desenvolvedor Full Stack
-</p>
+🚀 Desenvolvedor Front-End apaixonado por tecnologia e inovação.  
+📚 Atualmente aprendendo React, TypeScript e Go.  
+💼 Trabalho na AZ Tecnologia em Gestão  
+🎯 Objetivo: me tornar Desenvolvedor Full Stack
 
 ## 🛠️ Tecnologias que uso
 - React.js
