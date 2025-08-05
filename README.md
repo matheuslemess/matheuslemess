@@ -1,19 +1,13 @@
 <img width="1590" height="406" alt="image" src="https://github.com/user-attachments/assets/50434b62-a0a8-4e12-b3b9-dba13871bc07" />
 
-
-<p align="center">
-  <img src="https://github.com/matheuslemess/assets/blob/main/banner-github.png" alt="Banner" />
-</p>
-
 <h1 align="center">Olá, eu sou o Matheus 👋</h1>
 
 <p align="center">
   Desenvolvedor Front-end | Apaixonado por Acessibilidade e UX
+  📚 Atualmente aprendendo React, TypeScript e Go.  
+  💼 Trabalho na AZ Tecnologia em Gestão  
+  🎯 Objetivo: me tornar Desenvolvedor Full Stack
 </p>
-
-📚 Atualmente aprendendo React, TypeScript e Go.  
-💼 Trabalho na AZ Tecnologia em Gestão  
-🎯 Objetivo: me tornar Desenvolvedor Full Stack
 
 ## 🛠️ Tecnologias que uso
 - React.js
@@ -41,3 +35,9 @@ Atuei como desenvolvedor front-end na criação do workspace para os colaborador
 ---
 
 📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/4matheuslemes/)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuslemess&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslemess&layout=compact&theme=dracula" />
+</p>
+
