@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou o Matheus Lemes 👋
 
-<!--
-**matheuslemess/matheuslemess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Front-End apaixonado por tecnologia e inovação.  
+📚 Atualmente aprendendo React, TypeScript e Go.  
+💼 Trabalho na AZ Tecnologia em Gestão  
+🎯 Objetivo: me tornar Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que uso
+- React.js
+- JavaScript / TypeScript
+- Next.js
+- Go (iniciante)
+- HTML e CSS
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projetos em Destaque
+
+-   **[Portal Interno da SEFAZ-MS]**
+    -   Atuei como desenvolvedor front-end na criação do workspace para os colaboradores da Coordenadoria de Tecnologia da Informação (COTIN) da SEFAZ-MS, utilizando **React.js, Next.js, TypeScript e Chakra UI**.
+    -   **Principais contribuições:**
+        -   Desenvolvi uma **biblioteca de componentes reutilizáveis** que padronizou a interface e acelerou o desenvolvimento de novas funcionalidades.
+        -   Implementei a funcionalidade de **arrastar e soltar (drag-and-drop)** para a personalização do layout dos widgets, permitindo que os usuários organizassem o workspace de acordo com suas preferências.
+        -   Criei um **tutorial interativo com a biblioteca `react-joyride`** para guiar os novos usuários pelas principais funcionalidades do portal.
+        -   Desenvolvi o sistema de **notificações em tempo real** e a integração com a **agenda e e-mails**, centralizando a comunicação da equipe.
+        -   Realizei a integração com as APIs do back-end para o gerenciamento de eventos, notícias e outros recursos, garantindo a comunicação eficiente de dados.
+    -   **Resultado:** O portal se tornou a principal ferramenta de comunicação interna, otimizando o acesso à informação e melhorando a produtividade dos colaboradores.
+
+-   [Portal Interno da SEFAZ-MS](https://portal-cotin.ms.gov.br/workspace/home)
+
+---
+
+📫 Me encontre no [LinkedIn](https://github.com/matheuslemess)
