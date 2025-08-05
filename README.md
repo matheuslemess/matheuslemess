@@ -1,9 +1,16 @@
 <img width="1590" height="406" alt="image" src="https://github.com/user-attachments/assets/50434b62-a0a8-4e12-b3b9-dba13871bc07" />
 
 
-# Olá! Eu sou o Matheus Lemes 👋
+<p align="center">
+  <img src="https://github.com/matheuslemess/assets/blob/main/banner-github.png" alt="Banner" />
+</p>
 
-🚀 Desenvolvedor Front-End apaixonado por tecnologia e inovação.  
+<h1 align="center">Olá, eu sou o Matheus 👋</h1>
+
+<p align="center">
+  Desenvolvedor Front-end | Apaixonado por Acessibilidade e UX
+</p>
+
 📚 Atualmente aprendendo React, TypeScript e Go.  
 💼 Trabalho na AZ Tecnologia em Gestão  
 🎯 Objetivo: me tornar Desenvolvedor Full Stack
