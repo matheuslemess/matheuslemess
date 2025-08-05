@@ -1,3 +1,6 @@
+<img width="1590" height="406" alt="image" src="https://github.com/user-attachments/assets/50434b62-a0a8-4e12-b3b9-dba13871bc07" />
+
+
 # Olá! Eu sou o Matheus Lemes 👋
 
 🚀 Desenvolvedor Front-End apaixonado por tecnologia e inovação.  
